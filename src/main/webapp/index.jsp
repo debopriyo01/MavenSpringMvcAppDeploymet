@@ -15,6 +15,8 @@
         <input type="password" id="password" name="password" required><br>
 
         <input type="submit" value="Login">
+        <a href="www.google.com">click me to sign in</a><br><br>
+        <a href="www.facebook.com">click me to go to facebook page</a>
     </form>
 
     <%
