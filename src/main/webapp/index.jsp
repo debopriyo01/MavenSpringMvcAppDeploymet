@@ -29,6 +29,7 @@
         <input type="submit" value="Login">
         <a href="www.google.com">click me to sign in again into the google.com</a><br><br>
         <a href="www.facebook.com">click me to go again into the facebook page </a>
+        <a href="/home.jsp">click me to go to the home page </a>
     </form>
     
 
