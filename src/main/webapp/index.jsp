@@ -18,6 +18,19 @@
         <a href="www.google.com">click me to sign in</a><br><br>
         <a href="www.facebook.com">click me to go to facebook page</a>
     </form>
+    
+     <form method="post" action="login.jsp">
+        <label for="username">Username:</label>
+        <input type="text" id="username" name="username" required><br>
+
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password" required><br>
+
+        <input type="submit" value="Login">
+        <a href="www.google.com">click me to sign in again into the google.com</a><br><br>
+        <a href="www.facebook.com">click me to go again into the facebook page </a>
+    </form>
+    
 
     <%
         String username = request.getParameter("username");
@@ -34,5 +47,6 @@
     <%
         }
     %>
+    
 </body>
 </html>
