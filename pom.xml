@@ -30,7 +30,7 @@
             <version>3.3.2</version> <!-- You can use the latest version -->
             <configuration>
                 <!-- Name of the WAR file -->
-                <warName>my-mvc-app</warName>
+                <warName>JenkinsMavenConfig</warName>
                 <!-- Web application source directory -->
                 <webappDirectory>src/main/webapp</webappDirectory>
             </configuration>
