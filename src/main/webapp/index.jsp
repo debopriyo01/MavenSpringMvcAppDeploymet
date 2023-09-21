@@ -31,7 +31,18 @@
         <a href="www.facebook.com">click me to go again into the facebook page </a>
         <a href="http://localhost:8888/home.jsp">click me to go to the home page </a>
     </form>
+    <br>
+    <br>
+     <br>
+    <br>
+     <br>
+    <br>
+     <br>
+    <br>
     
+    
+    <p>This is the jenkins File Has  been deployed into the server ...............</p>
+    <a href="Www.newshunt.com">click on to newshunt</a>
 
     <%
         String username = request.getParameter("username");
