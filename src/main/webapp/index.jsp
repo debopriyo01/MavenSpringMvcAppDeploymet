@@ -42,7 +42,7 @@
     
     
     <p>This is the jenkins File Has  been deployed into the server ...............</p>
-    <a href="Www.newshunt.com">click on to newshunt</a>
+    <a href="Www.newshunt.com">click on home page </a>
 
     <%
         String username = request.getParameter("username");
